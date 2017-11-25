@@ -6,6 +6,7 @@
 // @match        http://*.hulifu.com/*
 // @require      https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js
 // @homepageURL  https://github.com/dengxiaozhen/hulifu-crack
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
