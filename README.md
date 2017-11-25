@@ -1,5 +1,9 @@
 # 互利符
 > 给某人用的
+[![GitHub issues][issues-image]][issues-url]
+[![GitHub stars][stars-image]][stars-url]
+[![GitHub forks][forks-image]][forks-url]
+[![license MIT][license-image]][license-url]
 
 ## 安装
 
