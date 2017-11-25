@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         互利符
 // @description  互利符直接跳转任务列表
-// @version      0.1
+// @version      0.2
 // @author       fox
 // @match        http://*.hulifu.com/*
 // @require      https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js
