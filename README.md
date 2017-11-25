@@ -8,10 +8,11 @@
 ## 安装
 
 1. 请先安装 [Tampermonkey][1] 插件，支持 Chrome, Opera Next 和 Safari 浏览器。
-2. 刷新下页面。
+2. 然后再点击这个链接 [互利符][2] 安装脚本即可。
+3. 刷新下页面。
 
 [1]: http://tampermonkey.net/ "Tampermonkey"
-[2]: https://openuserjs.org/install/52cik/GitHub_%E6%B1%89%E5%8C%96%E6%8F%92%E4%BB%B6.user.js "GitHub 汉化插件"
+[2]: https://openuserjs.org/install/fox/%E4%BA%92%E5%88%A9%E7%AC%A6.user.js "互利符"
 
 [issues-url]: https://github.com/dengxiaozhen/hulifu-crack/issues
 [issues-image]: https://img.shields.io/github/issues/dengxiaozhen/github-hans.svg
